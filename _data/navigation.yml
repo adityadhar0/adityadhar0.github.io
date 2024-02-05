@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /assets/docs/CV.pdf
   - title: "Home"
-    url: https://lego.com
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /assets/docs/CV.pdf
   
