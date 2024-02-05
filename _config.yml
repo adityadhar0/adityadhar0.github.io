@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : aditya__dhar
 facebook:
   username               :
   app_id                 :
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Aditya Dhar"
+  avatar           : "/assets/images/bio-pic-ocean.jpg"
+  bio              : "I'm a first-year graduate student in finance at Chicago. I graduated Harvard in 2022."
+  location         : "Chicago"
   email            :
   links:
     - label: "Email"
