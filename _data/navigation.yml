@@ -1,13 +1,5 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Home"
-     url: /
-   - title: "Research"
-     url: /research/
-   - title: "Teaching"
-     url: /teaching/
-   - title: "CV"
-     url: /assets/docs/CV.pdf
+    url: /assets/docs/CV.pdf
   
