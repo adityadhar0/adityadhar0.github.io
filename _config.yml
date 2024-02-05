@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-pic-ocean.jpg"
   bio              : "I'm a first-year graduate student in finance at Chicago. I graduated Harvard in 2022."
   location         : "Chicago"
-  email            :
+  email            : "adhar (at) chicagobooth (dot) edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
