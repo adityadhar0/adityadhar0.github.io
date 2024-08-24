@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Aditya Dhar"
   avatar           : "/assets/images/bio-pic-ocean.jpg"
-  bio              : "I'm a first-year graduate student in finance at Chicago. I graduated Harvard in 2022."
+  bio              : "I'm a second-year graduate student in financial economics at Chicago. I graduated Harvard in 2022."
   location         : "Chicago"
   email            : "adhar (at) chicagobooth (dot) edu"
   links:
